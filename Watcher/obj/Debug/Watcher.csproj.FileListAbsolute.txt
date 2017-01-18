@@ -1,0 +1,27 @@
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\bin\Debug\Watcher.exe.config
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\bin\Debug\Watcher.exe
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\bin\Debug\Watcher.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\obj\Debug\Watcher.MainForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\obj\Debug\Watcher.Properties.Resources.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\obj\Debug\Watcher.csproj.GenerateResource.Cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\obj\Debug\Watcher.exe
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\obj\Debug\Watcher.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\Watcher\Watcher\obj\Debug\Watcher.csprojResolveAssemblyReference.cache
+D:\Мои документы\!Projects\Watcher\Watcher\bin\Debug\Watcher.exe.config
+D:\Мои документы\!Projects\Watcher\Watcher\obj\Debug\Watcher.exe
+D:\Мои документы\!Projects\Watcher\Watcher\obj\Debug\Watcher.pdb
+D:\Мои документы\!Projects\Watcher\Watcher\bin\Debug\Watcher.exe
+D:\Мои документы\!Projects\Watcher\Watcher\bin\Debug\Watcher.pdb
+D:\Мои документы\!Projects\Watcher\Watcher\obj\Debug\Watcher.csprojResolveAssemblyReference.cache
+D:\Мои документы\!Projects\Watcher\Watcher\obj\Debug\Watcher.MainForm.resources
+D:\Мои документы\!Projects\Watcher\Watcher\obj\Debug\Watcher.Properties.Resources.resources
+D:\Мои документы\!Projects\Watcher\Watcher\obj\Debug\Watcher.csproj.GenerateResource.Cache
+D:\_Projects\Watcher\Watcher\bin\Debug\Watcher.exe.config
+D:\_Projects\Watcher\Watcher\obj\Debug\Watcher.exe
+D:\_Projects\Watcher\Watcher\obj\Debug\Watcher.pdb
+D:\_Projects\Watcher\Watcher\bin\Debug\Watcher.exe
+D:\_Projects\Watcher\Watcher\bin\Debug\Watcher.pdb
+D:\_Projects\Watcher\Watcher\obj\Debug\Watcher.csprojResolveAssemblyReference.cache
+D:\_Projects\Watcher\Watcher\obj\Debug\Watcher.MainForm.resources
+D:\_Projects\Watcher\Watcher\obj\Debug\Watcher.Properties.Resources.resources
+D:\_Projects\Watcher\Watcher\obj\Debug\Watcher.csproj.GenerateResource.Cache

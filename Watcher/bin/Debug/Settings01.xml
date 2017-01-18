@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VarXML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WCFEndpointAddress></WCFEndpointAddress>
+  <ServiceName></ServiceName>
+  <RebootComputer>false</RebootComputer>
+  <TimerPeriod>5000</TimerPeriod>
+  <FaultCountLimit>0</FaultCountLimit>
+  <SQLAddress>Data Source=172.31.106.121,1444;Initial Catalog=KairControl;Persist Security Info=True;User ID=sa;Password=qwe+ASDFG</SQLAddress>
+  <SQLCleanPeriod>86400</SQLCleanPeriod>
+  <SQLActiveDays>365</SQLActiveDays>
+</VarXML>

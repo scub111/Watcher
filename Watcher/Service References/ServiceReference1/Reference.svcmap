@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f1acf35b-48f3-40ff-bf34-67c6aa15b64c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://172.31.106.121:5555/DataService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DataService.xsd" MetadataType="Schema" ID="cf4d9bad-a719-43d0-81ab-bb049a9f924e" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?xsd=xsd3" />
+    <MetadataFile FileName="DataService1.xsd" MetadataType="Schema" ID="17b6a5d2-4e5e-4d56-aed4-8025d171129b" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DataService.disco" MetadataType="Disco" ID="91f222ef-5e9b-4354-82e3-fd07cb9fb7dd" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?disco" />
+    <MetadataFile FileName="DataService4.xsd" MetadataType="Schema" ID="6c6dd7a7-475a-4859-951b-197bd8060c8e" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?xsd=xsd4" />
+    <MetadataFile FileName="DataService2.xsd" MetadataType="Schema" ID="0cdf7497-8e3b-45ca-bc93-70ab54fd260a" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?xsd=xsd1" />
+    <MetadataFile FileName="DataService.wsdl" MetadataType="Wsdl" ID="5600bf1a-24a7-4638-9876-bc8c479b2c54" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?wsdl" />
+    <MetadataFile FileName="DataService3.xsd" MetadataType="Schema" ID="8741104b-e6b4-4a79-b37e-a5b13de1166d" SourceId="1" SourceUrl="http://172.31.106.121:5555/DataService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
