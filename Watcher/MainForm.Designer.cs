@@ -104,14 +104,14 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.239687F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 9.204324F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 9.204324F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(475, 398);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(510, 407);
             this.tableLayoutPanel1.TabIndex = 0;
             this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(3, 28);
+            this.label3.Location = new System.Drawing.Point(3, 29);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(77, 13);
             this.label3.TabIndex = 6;
@@ -120,7 +120,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(3, 140);
+            this.label1.Location = new System.Drawing.Point(3, 145);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(88, 13);
             this.label1.TabIndex = 1;
@@ -129,7 +129,7 @@
             // lblServiceName
             // 
             this.lblServiceName.AutoSize = true;
-            this.lblServiceName.Location = new System.Drawing.Point(132, 28);
+            this.lblServiceName.Location = new System.Drawing.Point(141, 29);
             this.lblServiceName.Name = "lblServiceName";
             this.lblServiceName.Size = new System.Drawing.Size(25, 13);
             this.lblServiceName.TabIndex = 7;
@@ -138,7 +138,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(3, 112);
+            this.label2.Location = new System.Drawing.Point(3, 116);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(59, 13);
             this.label2.TabIndex = 4;
@@ -147,7 +147,7 @@
             // lblIsConnected
             // 
             this.lblIsConnected.AutoSize = true;
-            this.lblIsConnected.Location = new System.Drawing.Point(132, 112);
+            this.lblIsConnected.Location = new System.Drawing.Point(141, 116);
             this.lblIsConnected.Name = "lblIsConnected";
             this.lblIsConnected.Size = new System.Drawing.Size(25, 13);
             this.lblIsConnected.TabIndex = 3;
@@ -156,7 +156,7 @@
             // lblServerTime
             // 
             this.lblServerTime.AutoSize = true;
-            this.lblServerTime.Location = new System.Drawing.Point(132, 140);
+            this.lblServerTime.Location = new System.Drawing.Point(141, 145);
             this.lblServerTime.Name = "lblServerTime";
             this.lblServerTime.Size = new System.Drawing.Size(25, 13);
             this.lblServerTime.TabIndex = 2;
@@ -166,9 +166,9 @@
             // 
             this.tableLayoutPanel1.SetColumnSpan(this.btnReboot, 2);
             this.btnReboot.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnReboot.Location = new System.Drawing.Point(3, 199);
+            this.btnReboot.Location = new System.Drawing.Point(3, 206);
             this.btnReboot.Name = "btnReboot";
-            this.btnReboot.Size = new System.Drawing.Size(469, 30);
+            this.btnReboot.Size = new System.Drawing.Size(504, 31);
             this.btnReboot.TabIndex = 9;
             this.btnReboot.Text = "Перезагрузка";
             this.btnReboot.UseVisualStyleBackColor = true;
@@ -177,7 +177,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(3, 84);
+            this.label4.Location = new System.Drawing.Point(3, 87);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(44, 13);
             this.label4.TabIndex = 9;
@@ -186,7 +186,7 @@
             // lblStatus
             // 
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new System.Drawing.Point(132, 84);
+            this.lblStatus.Location = new System.Drawing.Point(141, 87);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(25, 13);
             this.lblStatus.TabIndex = 10;
@@ -195,7 +195,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(3, 168);
+            this.label5.Location = new System.Drawing.Point(3, 174);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(55, 13);
             this.label5.TabIndex = 11;
@@ -204,7 +204,7 @@
             // lblFault
             // 
             this.lblFault.AutoSize = true;
-            this.lblFault.Location = new System.Drawing.Point(132, 168);
+            this.lblFault.Location = new System.Drawing.Point(141, 174);
             this.lblFault.Name = "lblFault";
             this.lblFault.Size = new System.Drawing.Size(25, 13);
             this.lblFault.TabIndex = 12;
@@ -222,7 +222,7 @@
             // lblWCFEndpointAddress
             // 
             this.lblWCFEndpointAddress.AutoSize = true;
-            this.lblWCFEndpointAddress.Location = new System.Drawing.Point(132, 0);
+            this.lblWCFEndpointAddress.Location = new System.Drawing.Point(141, 0);
             this.lblWCFEndpointAddress.Name = "lblWCFEndpointAddress";
             this.lblWCFEndpointAddress.Size = new System.Drawing.Size(25, 13);
             this.lblWCFEndpointAddress.TabIndex = 14;
@@ -231,7 +231,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(3, 232);
+            this.label7.Location = new System.Drawing.Point(3, 240);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(64, 13);
             this.label7.TabIndex = 15;
@@ -240,7 +240,7 @@
             // lblSQLAddress
             // 
             this.lblSQLAddress.AutoSize = true;
-            this.lblSQLAddress.Location = new System.Drawing.Point(132, 232);
+            this.lblSQLAddress.Location = new System.Drawing.Point(141, 240);
             this.lblSQLAddress.Name = "lblSQLAddress";
             this.lblSQLAddress.Size = new System.Drawing.Size(25, 13);
             this.lblSQLAddress.TabIndex = 16;
@@ -249,7 +249,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(3, 260);
+            this.label10.Location = new System.Drawing.Point(3, 269);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(91, 13);
             this.label10.TabIndex = 17;
@@ -258,7 +258,7 @@
             // lblSQLCleanPeriod
             // 
             this.lblSQLCleanPeriod.AutoSize = true;
-            this.lblSQLCleanPeriod.Location = new System.Drawing.Point(132, 260);
+            this.lblSQLCleanPeriod.Location = new System.Drawing.Point(141, 269);
             this.lblSQLCleanPeriod.Name = "lblSQLCleanPeriod";
             this.lblSQLCleanPeriod.Size = new System.Drawing.Size(25, 13);
             this.lblSQLCleanPeriod.TabIndex = 18;
@@ -267,7 +267,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(3, 288);
+            this.label8.Location = new System.Drawing.Point(3, 298);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(92, 13);
             this.label8.TabIndex = 19;
@@ -276,7 +276,7 @@
             // lblSQLActiveDays
             // 
             this.lblSQLActiveDays.AutoSize = true;
-            this.lblSQLActiveDays.Location = new System.Drawing.Point(132, 288);
+            this.lblSQLActiveDays.Location = new System.Drawing.Point(141, 298);
             this.lblSQLActiveDays.Name = "lblSQLActiveDays";
             this.lblSQLActiveDays.Size = new System.Drawing.Size(25, 13);
             this.lblSQLActiveDays.TabIndex = 20;
@@ -286,9 +286,9 @@
             // 
             this.tableLayoutPanel1.SetColumnSpan(this.btnSQLCleanTrendTable, 2);
             this.btnSQLCleanTrendTable.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnSQLCleanTrendTable.Location = new System.Drawing.Point(3, 355);
+            this.btnSQLCleanTrendTable.Location = new System.Drawing.Point(3, 367);
             this.btnSQLCleanTrendTable.Name = "btnSQLCleanTrendTable";
-            this.btnSQLCleanTrendTable.Size = new System.Drawing.Size(469, 40);
+            this.btnSQLCleanTrendTable.Size = new System.Drawing.Size(504, 37);
             this.btnSQLCleanTrendTable.TabIndex = 21;
             this.btnSQLCleanTrendTable.Text = "SQL очистка трендовых таблиц";
             this.btnSQLCleanTrendTable.UseVisualStyleBackColor = true;
@@ -298,9 +298,9 @@
             // 
             this.tableLayoutPanel1.SetColumnSpan(this.btnSQLCleanTableAll, 2);
             this.btnSQLCleanTableAll.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.btnSQLCleanTableAll.Location = new System.Drawing.Point(3, 319);
+            this.btnSQLCleanTableAll.Location = new System.Drawing.Point(3, 330);
             this.btnSQLCleanTableAll.Name = "btnSQLCleanTableAll";
-            this.btnSQLCleanTableAll.Size = new System.Drawing.Size(469, 30);
+            this.btnSQLCleanTableAll.Size = new System.Drawing.Size(504, 31);
             this.btnSQLCleanTableAll.TabIndex = 22;
             this.btnSQLCleanTableAll.Text = "SQL очистка всех таблиц";
             this.btnSQLCleanTableAll.UseVisualStyleBackColor = true;
@@ -309,7 +309,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(3, 56);
+            this.label9.Location = new System.Drawing.Point(3, 58);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(92, 13);
             this.label9.TabIndex = 6;
@@ -318,7 +318,7 @@
             // lblServiceVersion
             // 
             this.lblServiceVersion.AutoSize = true;
-            this.lblServiceVersion.Location = new System.Drawing.Point(132, 56);
+            this.lblServiceVersion.Location = new System.Drawing.Point(141, 58);
             this.lblServiceVersion.Name = "lblServiceVersion";
             this.lblServiceVersion.Size = new System.Drawing.Size(25, 13);
             this.lblServiceVersion.TabIndex = 7;
@@ -341,7 +341,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(475, 398);
+            this.ClientSize = new System.Drawing.Size(510, 407);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
